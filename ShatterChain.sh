@@ -2,7 +2,7 @@
 # =================================================
 #  SHATTERCHAIN.sh — macOS Trust Chain Crippler
 #  Version: 0.9 (Experimental)
-#  Author: Darknessownsu + Ava Sterling
+#  Author: Darknessownsu
 # =================================================
 # Simulates a post-activation system by disabling setup daemons,
 # breaking verification paths, and corrupting cloud handshake logic.
